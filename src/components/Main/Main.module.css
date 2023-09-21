@@ -1,0 +1,23 @@
+.container{
+    display: flex;
+    margin-top: 32px
+}
+
+.min{
+    margin-left: 64px;
+}
+
+.label, .input{
+    display: block;
+    margin-bottom: 16px;
+}
+
+.input{
+    padding: 4px;
+}
+
+.IMC{
+    display: block;
+    margin-left: 156px;
+    font-weight: bold;
+}
